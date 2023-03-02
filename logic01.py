@@ -1,3 +1,4 @@
+
 def main(a,b,c):
     """
     Given three integers a, b, c,  check the following statement "The number b is between a and c".
@@ -8,4 +9,6 @@ def main(a,b,c):
     Returns:
         bool: answer
     """
-    return
+    j = a < b < c 
+    return j
+print(main(1,2,3))

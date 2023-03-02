@@ -6,4 +6,5 @@ def main(a):
     Returns:
         bool: answer
     """
-    return
+    return a > 9999 and a < 100000
+print(main(1235))

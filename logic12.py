@@ -6,4 +6,7 @@ def main(a):
     Returns:
         bool: answer
     """
-    return
+    x = a%10 
+    y = ((a-x)/10)
+    return x==y
+print(main(77))

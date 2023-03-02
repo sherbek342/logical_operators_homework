@@ -9,4 +9,6 @@ def main(n):
         bool: answer
     """
 
-    return
+    x1 = n%10
+    return x1>0
+print(main(11101))
