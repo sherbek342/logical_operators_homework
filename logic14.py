@@ -9,4 +9,4 @@ def main(a):
     x1 = a//10
     x2 = a%10
     return (x1+x2)%2!=0
-print(main(77))
+print(main(77))#

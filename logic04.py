@@ -8,4 +8,4 @@ def main(a,b):
         bool: answer
     """
     return a%2 == 0 and b%2 == 0
-print(main(2, 3))
+#print(main(2, 3))

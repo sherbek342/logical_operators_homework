@@ -7,4 +7,4 @@ def main(a):
         bool: answer
     """
     return a > 9999 and a < 100000
-print(main(1235))
+print(main(1235))#

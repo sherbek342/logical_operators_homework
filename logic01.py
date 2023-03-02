@@ -8,7 +8,7 @@ def main(a,b,c):
         c(int): parameter c
     Returns:
         bool: answer
-    """
+    """ 
     j = a < b < c 
     return j
-print(main(1,2,3))
+#print(main(1,2,3))

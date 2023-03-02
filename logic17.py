@@ -22,4 +22,4 @@ def main(a):
     x5 = a//10
     
     return x5>x4 and x4>x3 and x3>x2 and x2>x1
-print(main(76543))
+print(main(76543))#

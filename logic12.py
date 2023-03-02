@@ -9,4 +9,4 @@ def main(a):
     x = a%10 
     y = ((a-x)/10)
     return x==y
-print(main(77))
+#print(main(77))
