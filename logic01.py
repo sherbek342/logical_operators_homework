@@ -9,6 +9,6 @@ def main(a,b,c):
     Returns:
         bool: answer
     """ 
-    j = a < b < c 
-    return j
+     
+    return a < b < c
 #print(main(1,2,3))
