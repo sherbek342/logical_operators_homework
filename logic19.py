@@ -9,10 +9,10 @@ def main(x):
         bool: answer
     """
     
-    x1= x%10
-    x = x//10
+    x1= x%10 
+   
     
-    x2= x%10
+    x2= x//10  
 
     
     
