@@ -14,11 +14,10 @@ def main(x):
     
     x2= x%10
 
-    #
-    x3= x//10
     
-    return (x>99 and x1==x2) or ( x<99 and x1==x3)
-print(main(787))
+    
+    return x1==x2
+print(main(77))
 
 
 
