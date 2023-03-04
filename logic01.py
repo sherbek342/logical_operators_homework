@@ -10,5 +10,5 @@ def main(a,b,c):
         bool: answer
     """ 
      
-    return a < b < c
+    return a < b < c or a > b > c
 #print(main(1,2,3))
